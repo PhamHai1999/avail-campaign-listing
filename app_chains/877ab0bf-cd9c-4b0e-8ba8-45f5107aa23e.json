@@ -1,0 +1,8 @@
+{
+    "name": "deepseablue",
+    "logo": "https://ibb.co/sWVdMmT",
+    "rpc_url": "http://31.220.83.168:9944",
+    "explorer_url": "http://31.220.83.168:4000",
+    "metrics_endpoint": "http://31.220.83.168:9615/metrics", 
+    "id": "877ab0bf-cd9c-4b0e-8ba8-45f5107aa23e"
+}
